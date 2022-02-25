@@ -5,7 +5,7 @@ No dia 24/02/2022, habitantes das cidades de Espírito Santo do Pinhal-SP, Santo
 Segundo relatos, *"Houve um estrondo grande, parecido com um forte trovão"*, e após houve um tremor de terra de curta duração.
 
 ![](/img/relatos.png)
-Fonte da imagem: http://moho.iag.usp.br/eq/dyfi
+Imagem 1: Relatos de tremor reportados na ferramenta Sentiu ai? do Centro de Sismologia da USP. Fonte da imagem: Centro de Sismologia da USP, disponívem em http://moho.iag.usp.br/eq/dyfi
 
 O interessante é que tal fenômeno ocorreu no centenário do maior tremor já registrado na Região Sudeste do Brasil. O "Sismo de Pinhal", ocorrido em 27 de janeiro de 1922, atingiu magnitude 5.1 na escala Richter. Fonte: https://portaldepinhal.com.br/2022/01/o-terremoto-que-apavorou-sp-ha-100-anos-epicentro-foi-em-espirito-santo-do-pinhal/ e https://www.youtube.com/watch?v=0qDSh68XqpY&ab_channel=DepartamentodeGeof%C3%ADsicadoIAG-USP .
 
