@@ -11,4 +11,4 @@ O interessante é que tal fenômeno ocorreu no centenário do maior tremor já r
 
 Tal ocorrido me motivou a fazer uma análise dos terremotos que aconteceram no Brasil, na tentativa de identificar algum padrão geográfico ou temporal. Outro fator que me motivou é que moro na região onde ocorreu o tremor desse 24 de fevereiro e cerca de 30-40 quilômetros do epicentro do sismo de 1922.
 
-Para essa análise vou usar dados do Boletim Sísmico disponibilizado pelo Centro de Sismologia da USP (http://moho.iag.usp.br/eq/bulletin/) e por dados obtidos através da Federação Internacional de Redes Sismográficas Digitais (FDSN), em consulta realizada através do site do Centro de Sismologia da USP (http://moho.iag.usp.br/rq/event).
+Para essa análise vou usar dados do Boletim Sísmico disponibilizado pelo Centro de Sismologia da USP (http://moho.iag.usp.br/eq/bulletin/) e dados obtidos através da Federação Internacional de Redes Sismográficas Digitais (FDSN), em consulta realizada através do site do Centro de Sismologia da USP (http://moho.iag.usp.br/rq/event).
